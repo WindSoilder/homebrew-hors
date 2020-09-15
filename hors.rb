@@ -4,8 +4,8 @@
 class Hors < Formula
   desc "instant coding answers via the command line (howdoi in rust)"
   homepage "https://github.com/WindSoilder/hors"
-  url "https://github.com/WindSoilder/hors/releases/download/v0.6.10/hors-mac.tar.gz"
-  sha256 "225a2237275ee5c7855551f4026571d509e713110ef3c94b5730ecb7ed5c38f2"
+  url "https://github.com/WindSoilder/hors/releases/download/v0.7.1/hors-mac.tar.gz"
+  sha256 "95921079cb4393f24e0ab22cb42d4103f7d79308da1c6e242db15076ff1571cf"
 
   # depends_on "cmake" => :build
 
